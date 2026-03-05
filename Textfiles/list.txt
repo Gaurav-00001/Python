@@ -1,0 +1,11 @@
+• list is a type of built data type that stores data of different data type(int,str,float,etc
+• mutuable(changeable) & [] is used.
+• functions of a list:-
+  (1)append():- list.append():- adds element at last.
+  (2)sort():- list.sort() :- ascending order.
+  (3)sort():- list.sort(reverse=True) :- descending order.
+  (4)remove():- list.remove() :- it remove all elements having same values.
+  (5)reverse():- list.reverse()
+  (6)insert(index,element):- list.insert(1,gaurav)
+  (7)pop(index):- list.pop(7)
+  (8)count(element):-list.count(90):- count the number of time it is repeated.
